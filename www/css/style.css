@@ -1,0 +1,38 @@
+/* Navbar */
+.navbar span {
+    color: #B0578D;
+}
+
+.navbar .nav-link {
+    color: black;
+}
+
+.navbar .nav-link:hover {
+    color: #B0578D;
+}
+
+/* Jumbotron */
+.jumbotron {
+    padding: 6rem 0rem 2rem 0;
+    background-color: #FDF0F0;
+}
+
+/* About */
+#about {
+    padding: 5rem 1rem;
+}
+
+/* Project */
+#projects {
+    padding: 5rem 1rem;
+    background-color: #FDF0F0;
+}
+
+#projects .card .card-text {
+    text-align: justify;
+}
+
+/* Footer */
+.footer {
+    padding: 1rem 0 0.2rem 0;
+}
